@@ -1,0 +1,35 @@
+Animals|Elephant|The largest land animal
+Animals|Tiger|Striped big cat
+Animals|Giraffe|A tall African mammal with a long neck and spots
+Animals|Penguin|A flightless bird that lives in cold regions
+Animals|Koala|A cute marsupial native to Australia known for its eucalyptus diet
+Fruits|Apple|A round fruit with red or green skin
+Fruits|Banana|A long curved fruit that grows in clusters
+Fruits|Strawberry|A small, sweet fruit with a red color and tiny seeds on its surface
+Fruits|Mango|A tropical fruit with a sweet, juicy flesh and a rich flavor
+Fruits|Pineapple|A spiky tropical fruit with a sweet and tangy taste
+Colors|Red|The color of blood
+Colors|Blue|The color of the sky
+Countries|Australia| A country and continent known for its stunning landscapes, unique wildlife, and vibrant cities
+Countries|India|A South Asian country known for its diverse culture, spirituality, and delicious cuisine
+Countries|France|A European country known for its culture, cuisine, and landmarks like the Eiffel Tower
+Countries|Japan|An East Asian country known for its rich history, traditions, and technological advancements
+Countries|Brazil|A South American country famous for its vibrant culture, carnival, and football
+Seasons|Spring|Season with blooming flowers
+Seasons|Summer|Season with warm weather and vacations
+Seasons|Autumn|Season with falling leaves and harvest
+Seasons|Winter|Season with cold weather and snow
+Weather|Sunshine|A word associated with bright and sunny days
+Weather|Rainbow|A colorful natural phenomenon after rain
+Weather|Breeze|A gentle wind
+Outdoor Activities|Picnic|Outdoor meal with a blanket and food
+Outdoor Activities|Beach|Sandy shore by the sea
+Outdoor Activities|campfire|Outdoor fire for warmth and cooking
+Outdoor Activities|barbecue|Outdoor cooking on a grill
+Outdoor Activities|Swimming|Activity in the water
+Outdoor Activities|Hiking|Walking in nature
+Celebrations|Fireworks|Explosive displays of light and color
+Celebrations|birthday|Celebration of a person's date of birth
+Celebrations|wedding|Union of two people in marriage
+Celebrations|graduation|eremony marking the completion of studies
+Celebrations|anniversary|Celebration of a significant event that occurred on the same date

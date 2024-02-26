@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\IT_Step\\Bookmanagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDF40B8-627C-4F1D-A510-3EF5F66691CD}|Bookmanagement\\Bookmanagement.csproj|d:\\desktop\\it_step\\bookmanagement\\bookmanagement\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FDF40B8-627C-4F1D-A510-3EF5F66691CD}|Bookmanagement\\Bookmanagement.csproj|solutionrelative:bookmanagement\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDF40B8-627C-4F1D-A510-3EF5F66691CD}|Bookmanagement\\Bookmanagement.csproj|d:\\desktop\\it_step\\bookmanagement\\bookmanagement\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FDF40B8-627C-4F1D-A510-3EF5F66691CD}|Bookmanagement\\Bookmanagement.csproj|solutionrelative:bookmanagement\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDF40B8-627C-4F1D-A510-3EF5F66691CD}|Bookmanagement\\Bookmanagement.csproj|d:\\desktop\\it_step\\bookmanagement\\bookmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FDF40B8-627C-4F1D-A510-3EF5F66691CD}|Bookmanagement\\Bookmanagement.csproj|solutionrelative:bookmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDF40B8-627C-4F1D-A510-3EF5F66691CD}|Bookmanagement\\Bookmanagement.csproj|d:\\desktop\\it_step\\bookmanagement\\bookmanagement\\bookmanagerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FDF40B8-627C-4F1D-A510-3EF5F66691CD}|Bookmanagement\\Bookmanagement.csproj|solutionrelative:bookmanagement\\bookmanagerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desktop\\IT_Step\\Bookmanagement\\Bookmanagement\\Program.cs",
+              "RelativeDocumentMoniker": "Bookmanagement\\Program.cs",
+              "ToolTip": "D:\\Desktop\\IT_Step\\Bookmanagement\\Bookmanagement\\Program.cs",
+              "RelativeToolTip": "Bookmanagement\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-12T15:41:22.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookManager.cs",
+              "DocumentMoniker": "D:\\Desktop\\IT_Step\\Bookmanagement\\Bookmanagement\\BookManager.cs",
+              "RelativeDocumentMoniker": "Bookmanagement\\BookManager.cs",
+              "ToolTip": "D:\\Desktop\\IT_Step\\Bookmanagement\\Bookmanagement\\BookManager.cs",
+              "RelativeToolTip": "Bookmanagement\\BookManager.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwDIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-12T15:50:30.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookManagerBase.cs",
+              "DocumentMoniker": "D:\\Desktop\\IT_Step\\Bookmanagement\\Bookmanagement\\BookManagerBase.cs",
+              "RelativeDocumentMoniker": "Bookmanagement\\BookManagerBase.cs",
+              "ToolTip": "D:\\Desktop\\IT_Step\\Bookmanagement\\Bookmanagement\\BookManagerBase.cs",
+              "RelativeToolTip": "Bookmanagement\\BookManagerBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T11:18:56.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Desktop\\IT_Step\\Bookmanagement\\Bookmanagement\\Book.cs",
+              "RelativeDocumentMoniker": "Bookmanagement\\Book.cs",
+              "ToolTip": "D:\\Desktop\\IT_Step\\Bookmanagement\\Bookmanagement\\Book.cs",
+              "RelativeToolTip": "Bookmanagement\\Book.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAswEAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-12T15:42:22.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

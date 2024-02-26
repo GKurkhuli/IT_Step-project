@@ -1,0 +1,14 @@
+D:\Desktop\IT_Step\Bookmanagement\Bookmanagement\bin\Debug\net8.0\Bookmanagement.exe
+D:\Desktop\IT_Step\Bookmanagement\Bookmanagement\bin\Debug\net8.0\Bookmanagement.deps.json
+D:\Desktop\IT_Step\Bookmanagement\Bookmanagement\bin\Debug\net8.0\Bookmanagement.runtimeconfig.json
+D:\Desktop\IT_Step\Bookmanagement\Bookmanagement\bin\Debug\net8.0\Bookmanagement.dll
+D:\Desktop\IT_Step\Bookmanagement\Bookmanagement\bin\Debug\net8.0\Bookmanagement.pdb
+D:\Desktop\IT_Step\Bookmanagement\Bookmanagement\obj\Debug\net8.0\Bookmanagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\IT_Step\Bookmanagement\Bookmanagement\obj\Debug\net8.0\Bookmanagement.AssemblyInfoInputs.cache
+D:\Desktop\IT_Step\Bookmanagement\Bookmanagement\obj\Debug\net8.0\Bookmanagement.AssemblyInfo.cs
+D:\Desktop\IT_Step\Bookmanagement\Bookmanagement\obj\Debug\net8.0\Bookmanagement.csproj.CoreCompileInputs.cache
+D:\Desktop\IT_Step\Bookmanagement\Bookmanagement\obj\Debug\net8.0\Bookmanagement.dll
+D:\Desktop\IT_Step\Bookmanagement\Bookmanagement\obj\Debug\net8.0\refint\Bookmanagement.dll
+D:\Desktop\IT_Step\Bookmanagement\Bookmanagement\obj\Debug\net8.0\Bookmanagement.pdb
+D:\Desktop\IT_Step\Bookmanagement\Bookmanagement\obj\Debug\net8.0\Bookmanagement.genruntimeconfig.cache
+D:\Desktop\IT_Step\Bookmanagement\Bookmanagement\obj\Debug\net8.0\ref\Bookmanagement.dll

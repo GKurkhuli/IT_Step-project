@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\IT_Step\\HangMan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26C1A426-2DC7-4E3F-B7B9-6E7212ED1C1F}|HangMan\\HangMan.csproj|d:\\desktop\\it_step\\hangman\\hangman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C1A426-2DC7-4E3F-B7B9-6E7212ED1C1F}|HangMan\\HangMan.csproj|solutionrelative:hangman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C1A426-2DC7-4E3F-B7B9-6E7212ED1C1F}|HangMan\\HangMan.csproj|d:\\desktop\\it_step\\hangman\\hangman\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C1A426-2DC7-4E3F-B7B9-6E7212ED1C1F}|HangMan\\HangMan.csproj|solutionrelative:hangman\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C1A426-2DC7-4E3F-B7B9-6E7212ED1C1F}|HangMan\\HangMan.csproj|d:\\desktop\\it_step\\hangman\\hangman\\hangmangame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C1A426-2DC7-4E3F-B7B9-6E7212ED1C1F}|HangMan\\HangMan.csproj|solutionrelative:hangman\\hangmangame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C1A426-2DC7-4E3F-B7B9-6E7212ED1C1F}|HangMan\\HangMan.csproj|d:\\desktop\\it_step\\hangman\\hangman\\hangman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C1A426-2DC7-4E3F-B7B9-6E7212ED1C1F}|HangMan\\HangMan.csproj|solutionrelative:hangman\\hangman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hangman.cs",
+              "DocumentMoniker": "D:\\Desktop\\IT_Step\\HangMan\\HangMan\\Hangman.cs",
+              "RelativeDocumentMoniker": "HangMan\\Hangman.cs",
+              "ToolTip": "D:\\Desktop\\IT_Step\\HangMan\\HangMan\\Hangman.cs",
+              "RelativeToolTip": "HangMan\\Hangman.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-10T11:59:53.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HangmanGame.cs",
+              "DocumentMoniker": "D:\\Desktop\\IT_Step\\HangMan\\HangMan\\HangmanGame.cs",
+              "RelativeDocumentMoniker": "HangMan\\HangmanGame.cs",
+              "ToolTip": "D:\\Desktop\\IT_Step\\HangMan\\HangMan\\HangmanGame.cs",
+              "RelativeToolTip": "HangMan\\HangmanGame.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-08T15:24:53.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Word.cs",
+              "DocumentMoniker": "D:\\Desktop\\IT_Step\\HangMan\\HangMan\\Word.cs",
+              "RelativeDocumentMoniker": "HangMan\\Word.cs",
+              "ToolTip": "D:\\Desktop\\IT_Step\\HangMan\\HangMan\\Word.cs",
+              "RelativeToolTip": "HangMan\\Word.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-08T14:46:23.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desktop\\IT_Step\\HangMan\\HangMan\\Program.cs",
+              "RelativeDocumentMoniker": "HangMan\\Program.cs",
+              "ToolTip": "D:\\Desktop\\IT_Step\\HangMan\\HangMan\\Program.cs",
+              "RelativeToolTip": "HangMan\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-08T14:22:54.456Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

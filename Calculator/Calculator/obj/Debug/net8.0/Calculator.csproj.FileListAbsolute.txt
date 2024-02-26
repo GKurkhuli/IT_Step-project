@@ -1,0 +1,14 @@
+D:\Desktop\IT_Step\Calculator\Calculator\bin\Debug\net8.0\Calculator.exe
+D:\Desktop\IT_Step\Calculator\Calculator\bin\Debug\net8.0\Calculator.deps.json
+D:\Desktop\IT_Step\Calculator\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+D:\Desktop\IT_Step\Calculator\Calculator\bin\Debug\net8.0\Calculator.dll
+D:\Desktop\IT_Step\Calculator\Calculator\bin\Debug\net8.0\Calculator.pdb
+D:\Desktop\IT_Step\Calculator\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\IT_Step\Calculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+D:\Desktop\IT_Step\Calculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+D:\Desktop\IT_Step\Calculator\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+D:\Desktop\IT_Step\Calculator\Calculator\obj\Debug\net8.0\Calculator.dll
+D:\Desktop\IT_Step\Calculator\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+D:\Desktop\IT_Step\Calculator\Calculator\obj\Debug\net8.0\Calculator.pdb
+D:\Desktop\IT_Step\Calculator\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+D:\Desktop\IT_Step\Calculator\Calculator\obj\Debug\net8.0\ref\Calculator.dll
